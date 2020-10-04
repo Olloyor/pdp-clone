@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can check this app on Heroku LIVE [Go to Live DEMO](http://pdp-clone.herokuapp.com).
 
 ## Available Scripts
 
